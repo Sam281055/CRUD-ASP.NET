@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|c:\\users\\sam\\source\\repos\\pandstore-back\\pandstore-back\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|solutionrelative:pandstore-back\\service\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|c:\\users\\sam\\source\\repos\\pandstore-back\\pandstore-back\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|solutionrelative:pandstore-back\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|c:\\users\\sam\\source\\repos\\pandstore-back\\pandstore-back\\model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|solutionrelative:pandstore-back\\model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|c:\\users\\sam\\source\\repos\\pandstore-back\\pandstore-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|solutionrelative:pandstore-back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|c:\\users\\sam\\source\\repos\\pandstore-back\\pandstore-back\\pandstore-back.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|solutionrelative:pandstore-back\\pandstore-back.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|c:\\users\\sam\\source\\repos\\pandstore-back\\pandstore-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|solutionrelative:pandstore-back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|c:\\users\\sam\\source\\repos\\pandstore-back\\pandstore-back\\pandstore-back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A88CEDE-7594-41D5-93AD-3DF21AEDA461}|PandStore-Back\\PandStore-Back.csproj|solutionrelative:pandstore-back\\pandstore-back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\Service\\ProductoService.cs",
+              "RelativeDocumentMoniker": "PandStore-Back\\Service\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\Service\\ProductoService.cs",
+              "RelativeToolTip": "PandStore-Back\\Service\\ProductoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T20:10:00.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PandStore-Back",
+              "DocumentMoniker": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\PandStore-Back.csproj",
+              "RelativeDocumentMoniker": "PandStore-Back\\PandStore-Back.csproj",
+              "ToolTip": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\PandStore-Back.csproj",
+              "RelativeToolTip": "PandStore-Back\\PandStore-Back.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T19:59:14.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\Program.cs",
+              "RelativeDocumentMoniker": "PandStore-Back\\Program.cs",
+              "ToolTip": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\Program.cs",
+              "RelativeToolTip": "PandStore-Back\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:37:32.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "PandStore-Back\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "PandStore-Back\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwB8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T19:16:39.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\appsettings.json",
+              "RelativeDocumentMoniker": "PandStore-Back\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\appsettings.json",
+              "RelativeToolTip": "PandStore-Back\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-14T18:19:48.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\Model\\Producto.cs",
+              "RelativeDocumentMoniker": "PandStore-Back\\Model\\Producto.cs",
+              "ToolTip": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\Model\\Producto.cs",
+              "RelativeToolTip": "PandStore-Back\\Model\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T18:16:02.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PandStore-Back",
+              "DocumentMoniker": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\PandStore-Back.csproj",
+              "RelativeDocumentMoniker": "PandStore-Back\\PandStore-Back.csproj",
+              "ToolTip": "C:\\Users\\Sam\\source\\repos\\PandStore-Back\\PandStore-Back\\PandStore-Back.csproj",
+              "RelativeToolTip": "PandStore-Back\\PandStore-Back.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T18:15:13.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

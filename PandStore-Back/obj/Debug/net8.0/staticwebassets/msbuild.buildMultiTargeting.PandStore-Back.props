@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PandStore-Back.props" />
+</Project>
